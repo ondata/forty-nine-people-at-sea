@@ -70,8 +70,9 @@ testo='
 @GiuseppeConteIT @DaniloToninelli #ApriteIPorti
 '
 
-<<commento2
+twurl set default ondatait
 twurl -H upload.twitter.com "/1.1/media/upload.json" -f "$folder"/map.png -F media -X POST | jq -r '.media_id_string' >"$folder"/tmp_t.json
 mediaID=$(cat "$folder"/tmp_t.json)
 twurl "/1.1/statuses/update.json" -d "media_ids=$mediaID&status=$testo"
+<<commento2
 commento2
