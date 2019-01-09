@@ -64,7 +64,7 @@ wget -O "$folder"/map.png "https://api.mapbox.com/styles/v1/mapbox/streets-v10/s
 
 ## tweet
 testo='
-È una vergogna! Da '"$giorni"' giorni '"$persone"' persone costrette a bordo di due navi:
+Da '"$giorni"' giorni '"$persone"' persone costrette a bordo di due navi:
 1) #SEAWATCH 3, temperatura '"$airTemperatureSW"' °C, onda '"$waveHeightSW"' m '"$urlSW"'
 2) PROF ALBRECHT PENCK, temperatura '"$airTemperaturePAP"' °C, onda '"$waveHeightPAP"' m '"$urlPAP"'
 @GiuseppeConteIT @DaniloToninelli #ApriteIPorti
