@@ -68,7 +68,7 @@ wget -O "$folder"/map.png "https://api.mapbox.com/styles/v1/mapbox/streets-v10/s
 
 ## tweet
 testo='
-Da '"$giorni"' giorni '"$persone"' sono a bordo di #SEAWATCH 3: temperatura di '"$airTemperatureSW"' °C, onda di '"$waveHeightSW"' m '"$urlSW"'
+Da '"$giorni"' giorni '"$persone"' persone sono a bordo di #SEAWATCH 3: temperatura di '"$airTemperatureSW"' °C, onda di '"$waveHeightSW"' m '"$urlSW"'
 #ApriteIPorti
 '
 
