@@ -12,7 +12,7 @@
 
 Il [19 gennaio 2019](https://twitter.com/SeaWatchItaly/status/1086624727874056192) l'equipaggio della "SEA WATCH 3" ha salvato 47 persone dal mare.
 
-Alle 8, alle 15 e alle 22 verrà pubblicato un tweet simile a quello di [sotto](https://twitter.com/ondatait/status/1082909680681259008). È generato automaticamente a partire dalla **raccolta** di alcuni **dati** (al momento della pubblicazione del tweet):
+Alle 8 e alle 18 verrà pubblicato un tweet simile a quello di [sotto](https://twitter.com/ondatait/status/1082909680681259008). È generato automaticamente a partire dalla **raccolta** di alcuni **dati** (al momento della pubblicazione del tweet):
 
 - quanti **giorni** sono **passati** a partire dal 19 gennaio 2019;
 - le **coordinate** della nave (grazie a https://www.vesselfinder.com) e a partire da queste;
