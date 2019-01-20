@@ -12,7 +12,7 @@
 
 Il 19 gennaio 2019 l'equipaggio della "SEA WATCH 3" ha salvto 47 persone dal mare.
 
-Alle 8, alle 13, alle 18 e alle 22 verrà pubblicato un tweet come quello di [sotto](https://twitter.com/ondatait/status/1082909680681259008). È generato automaticamente a partire dalla **raccolta** di alcuni **dati** (al momento della pubblicazione del tweet):
+Alle 8, alle 15 e alle 22 verrà pubblicato un tweet simile a quello di [sotto](https://twitter.com/ondatait/status/1082909680681259008). È generato automaticamente a partire dalla **raccolta** di alcuni **dati** (al momento della pubblicazione del tweet):
 
 - quanti **giorni** sono **passati** a partire dal 19 gennaio 2019;
 - le **coordinate** della nave (grazie a https://www.vesselfinder.com) e a partire da queste;
@@ -26,7 +26,7 @@ Alle 8, alle 13, alle 18 e alle 22 verrà pubblicato un tweet come quello di [so
 
 ## Un tweet periodico per seguire le navi "SEA WATCH 3" e "PROF ALBRECHT PENCK", a partire dai dati
 
-Alle 8, alle 15 e alle 22 verrà pubblicato un tweet come quello di [sotto](https://twitter.com/ondatait/status/1082909680681259008). È generato automaticamente a partire dalla **raccolta** di alcuni **dati** (al momento della pubblicazione del tweet):
+Alle 8, alle 13, alle 18 e alle 22 verrà pubblicato un tweet come quello di [sotto](https://twitter.com/ondatait/status/1082909680681259008). È generato automaticamente a partire dalla **raccolta** di alcuni **dati** (al momento della pubblicazione del tweet):
 
 - quanti **giorni** sono **passati** a partire dal 22 dicembre (il giorno in cui la "SEA WATCH 3" ha preso a bordo le persone);
 - le **coordinate** delle navi (grazie a https://www.vesselfinder.com) e a partire da queste;
